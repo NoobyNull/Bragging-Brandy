@@ -1,0 +1,151 @@
+# Build directories
+build/
+build-*/
+out/
+dist/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Visual Studio files
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Qt specific
+*.pro.user*
+*.qbs.user*
+*.moc
+*.moc.cpp
+*.qrc.cpp
+*.ui_*.h
+*.qmlc
+*.jsc
+
+# Qt Creator
+*.autosave
+
+# Qt translations
+*.ts
+*.qm
+
+# Object files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.exp
+*.pdb
+*.ilk
+*.map
+*.dSYM/
+
+# Logs
+*.log
+build.log
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Download files and installers
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+*.7z
+
+# Dependencies and third-party libraries
+dependencies/
+tools/dependencies/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Test outputs
+test_results/
+coverage/
+
+# Documentation build
+docs/_build/
+docs/build/
+
+# Large binary files that shouldn't be in git
+*.bin
+*.dat
+*.raw
+
+# Model files (too large for git)
+*.obj
+*.stl
+*.3ds
+*.fbx
+*.dae
+*.blend
+*.max
+*.ma
+*.mb
+*.c4d
+*.lwo
+*.lws
+*.x3d
+*.vrml
+*.wrl
+
+# Texture files (too large for git)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tga
+*.hdr
+*.psd
+*.tif
+*.tiff
+*.exr
+
+# Cache directories
+.cache/
+__pycache__/
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Claude Code local settings
+.claude/settings.local.json
