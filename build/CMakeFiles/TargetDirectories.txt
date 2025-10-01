@@ -1,0 +1,4 @@
+C:/Code/Bragging-Brandy/build/CMakeFiles/3DModelManagementUtility.dir
+C:/Code/Bragging-Brandy/build/CMakeFiles/INSTALL.dir
+C:/Code/Bragging-Brandy/build/CMakeFiles/ALL_BUILD.dir
+C:/Code/Bragging-Brandy/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,2193 @@
+<!doctype html><html lang="en"><head>
+    <meta charset="utf-8">
+    <title>Download Qt | Get Qt Online Installer</title>
+    <link rel="shortcut icon" href="https://www.qt.io/hubfs/QtGroup_Favicon_32.ico">
+
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&amp;display=swap" as="style">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&amp;display=swap" as="style">
+
+    
+    
+    
+    <script src="https://www.qt.io/hubfs/hub_generated/template_assets/1/190992509310/1749018112409/template_qt.min.js"></script>
+
+    
+      
+      <meta name="description" content="Download Qt, a development tool containing everything you need for your entire software development life cycle. Install Qt today.">
+    
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <script>
+        Qt.init({
+            lang: 'en',
+            translations: [{"english":"Skip to main content","hs_child_table_id":0,"hs_created_at":1746772401385,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925874215,"hs_initial_published_at":1746772626713,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1746772406835,"hs_updated_by_user_id":10165425,"key":"skip_to_main_content"},{"english":"Download. Try.","hs_child_table_id":0,"hs_created_at":1746772536682,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925874217,"hs_initial_published_at":1746772626713,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1746778149584,"hs_updated_by_user_id":10165425,"japanese":"ダウンロード","key":"download.try"},{"english":"Price. Buy.","hs_child_table_id":0,"hs_created_at":1746773931016,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925461262,"hs_initial_published_at":1746773951687,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1746778252314,"hs_updated_by_user_id":10165425,"key":"price.buy"},{"english":"Contact Us","hs_child_table_id":0,"hs_created_at":1746772417839,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925461249,"hs_initial_published_at":1746772626713,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1755495942566,"hs_updated_by_user_id":10165425,"japanese":"お問い合わせ","key":"contact_us"},{"chinese":"阅读更多","english":"Read More","hs_child_table_id":0,"hs_created_at":1746772493443,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925461250,"hs_initial_published_at":1746772626713,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1755495955281,"hs_updated_by_user_id":10165425,"japanese":"詳しく読む","key":"read_more"},{"chinese":"搜索","english":"Search","hs_child_table_id":0,"hs_created_at":1746772580833,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925461251,"hs_initial_published_at":1746772626713,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1746772593823,"hs_updated_by_user_id":10165425,"japanese":"検索","key":"search"},{"chinese":"全部","english":"All","hs_child_table_id":0,"hs_created_at":1746772608712,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":189925461253,"hs_initial_published_at":1746772626713,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1746772623393,"hs_updated_by_user_id":10165425,"japanese":"すべて","key":"all"},{"english":"Back","hs_child_table_id":0,"hs_created_at":1747025128438,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829585,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025133598,"hs_updated_by_user_id":10165425,"key":"back"},{"english":"Link to","hs_child_table_id":0,"hs_created_at":1747025151209,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829586,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025155804,"hs_updated_by_user_id":10165425,"key":"link_to"},{"english":"Read article","hs_child_table_id":0,"hs_created_at":1747025159370,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829587,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025168073,"hs_updated_by_user_id":10165425,"key":"read_article"},{"english":"Related articles","hs_child_table_id":0,"hs_created_at":1747025178457,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829588,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025190008,"hs_updated_by_user_id":10165425,"key":"related_articles"},{"english":"Learning Hub","hs_child_table_id":0,"hs_created_at":1747025212348,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829590,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025230722,"hs_updated_by_user_id":10165425,"japanese":"学習リソース","key":"learning_hub"},{"english":"Developers","hs_child_table_id":0,"hs_created_at":1747025247993,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829591,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025260054,"hs_updated_by_user_id":10165425,"japanese":"開発者向け情報","key":"developers"},{"chinese":"查看所有资源","english":"View All Resources","hs_child_table_id":0,"hs_created_at":1747025284598,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829592,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1755495933826,"hs_updated_by_user_id":10165425,"japanese":"すべてのリソースに戻る","key":"view_all_resources"},{"chinese":"观看视频","english":"Watch Video","hs_child_table_id":0,"hs_created_at":1747025311021,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829595,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1755495927857,"hs_updated_by_user_id":10165425,"japanese":"動画をみる","key":"watch_video"},{"chinese":"查看更多","english":"Get Document","hs_child_table_id":0,"hs_created_at":1747025337308,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829596,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1755495924067,"hs_updated_by_user_id":10165425,"japanese":"詳しく読む","key":"get_document"},{"chinese":"清除筛选条件","english":"Clear Filters","hs_child_table_id":0,"hs_created_at":1747025378711,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829597,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1755495937549,"hs_updated_by_user_id":10165425,"japanese":"フィルターリセット","key":"clear_filters"},{"chinese":"产品","english":"Product","hs_child_table_id":0,"hs_created_at":1747025403553,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829599,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025418067,"hs_updated_by_user_id":10165425,"japanese":"製品","key":"product"},{"chinese":"行业","english":"Industry","hs_child_table_id":0,"hs_created_at":1747025426579,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829600,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025446761,"hs_updated_by_user_id":10165425,"japanese":"産業","key":"industry"},{"chinese":"目标平台","english":"Target Platform","hs_child_table_id":0,"hs_created_at":1747025450700,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829602,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747026952774,"hs_updated_by_user_id":10165425,"japanese":"ターゲットプラットフォーム","key":"target_platform"},{"chinese":"内容类型","english":"Content Type","hs_child_table_id":0,"hs_created_at":1747025477452,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829603,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025496539,"hs_updated_by_user_id":10165425,"japanese":"コンテンツの種類","key":"content_type"},{"chinese":"视频","english":"Video","hs_child_table_id":0,"hs_created_at":1747025499079,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829604,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025522083,"hs_updated_by_user_id":10165425,"japanese":"動画","key":"video"},{"chinese":"网络研讨会","english":"Webinar","hs_child_table_id":0,"hs_created_at":1747025543468,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829606,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025560672,"hs_updated_by_user_id":10165425,"japanese":"オンデマンド","key":"webinar"},{"chinese":"文档","english":"Document","hs_child_table_id":0,"hs_created_at":1747025568012,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829607,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025585093,"hs_updated_by_user_id":10165425,"japanese":"ドキュメント","key":"document"},{"chinese":"成功案例","english":"Success Story","hs_child_table_id":0,"hs_created_at":1747025591099,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829608,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025609412,"hs_updated_by_user_id":10165425,"japanese":"顧客事例","key":"success_story"},{"chinese":"汽车","english":"Automotive","hs_child_table_id":0,"hs_created_at":1747025624839,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829609,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025645019,"hs_updated_by_user_id":10165425,"japanese":"自動車","key":"automotive"},{"chinese":"工业自动化","english":"Automation","hs_child_table_id":0,"hs_created_at":1747025689383,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829611,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025705338,"hs_updated_by_user_id":10165425,"japanese":"オートメーション","key":"automation"},{"chinese":"医疗","english":"Medical","hs_child_table_id":0,"hs_created_at":1747025717688,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829612,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025734340,"hs_updated_by_user_id":10165425,"japanese":"医療","key":"medical"},{"chinese":"消费类电子","english":"Consumer Electronics","hs_child_table_id":0,"hs_created_at":1747025734510,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829614,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025757636,"hs_updated_by_user_id":10165425,"japanese":"家電","key":"consumer_electronics"},{"chinese":"航空航天","english":"Aviation & Aerospace","hs_child_table_id":0,"hs_created_at":1747025735006,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829615,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025897324,"hs_updated_by_user_id":10165425,"japanese":"航空宇宙","key":"aviation_aerospace"},{"chinese":"工业车辆","english":"Industrial vehicles","hs_child_table_id":0,"hs_created_at":1747025735539,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829616,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025900561,"hs_updated_by_user_id":10165425,"japanese":"産業車両","key":"industrial_vehicles"},{"chinese":"嵌入式设备","english":"Embedded","hs_child_table_id":0,"hs_created_at":1747025736069,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829617,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025904838,"hs_updated_by_user_id":10165425,"japanese":"組み込み","key":"embedded"},{"chinese":"微控制器 (MCU)","english":"MCUs","hs_child_table_id":0,"hs_created_at":1747025736626,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829618,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025907603,"hs_updated_by_user_id":10165425,"japanese":"マイクロコントローラ (MCU)","key":"mcus"},{"chinese":"桌面、移动端","english":"Desktop and Mobile","hs_child_table_id":0,"hs_created_at":1747025809162,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829621,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025911707,"hs_updated_by_user_id":10165425,"japanese":"デスクトップとモバイルアプリ","key":"desktop_mobile"},{"chinese":"专业服务","english":"Professional Services","hs_child_table_id":0,"hs_created_at":1747025809716,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190015829622,"hs_initial_published_at":1747025919261,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1747025915190,"hs_updated_by_user_id":10165425,"japanese":"プロフェッショナルサービス","key":"professional_services"},{"chinese":"采访","english":"Interview","hs_child_table_id":0,"hs_created_at":1747670640480,"hs_created_by_user_id":49208129,"hs_deleted_at":0,"hs_id":190319048026,"hs_initial_published_at":1747670648176,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1750229034913,"hs_updated_by_user_id":10165425,"japanese":"インタビュー","key":"interview"},{"english":"Submit","hs_child_table_id":0,"hs_created_at":1749017604979,"hs_created_by_user_id":2928674,"hs_deleted_at":0,"hs_id":190994661791,"hs_initial_published_at":1749017847864,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1749017843564,"hs_updated_by_user_id":10165425,"japanese":"送信","key":"evaluation/submit"},{"english":"Loading...","hs_child_table_id":0,"hs_created_at":1749017618129,"hs_created_by_user_id":2928674,"hs_deleted_at":0,"hs_id":190994661792,"hs_initial_published_at":1749017847864,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1749017637647,"hs_updated_by_user_id":10165425,"japanese":"送信中","key":"evaluation/loading"},{"english":"Please enter a valid email address.","hs_child_table_id":0,"hs_created_at":1749017638915,"hs_created_by_user_id":2928674,"hs_deleted_at":0,"hs_id":190994661793,"hs_initial_published_at":1749017847864,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1749017720791,"hs_updated_by_user_id":10165425,"japanese":"正しいメールアドレスを入力してください。","key":"evaluation/please_enter_valid_email"},{"english":"Unfortunately, we are currently unable to process submissions from certain email domains due to regulatory considerations. We appreciate your understanding and look forward to assisting you in the future.","hs_child_table_id":0,"hs_created_at":1749017653432,"hs_created_by_user_id":2928674,"hs_deleted_at":0,"hs_id":190994661794,"hs_initial_published_at":1749017847864,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1749017668433,"hs_updated_by_user_id":10165425,"key":"evaluation/blocked_email_domain"},{"english":"Please provide a valid phone number.","hs_child_table_id":0,"hs_created_at":1749017676777,"hs_created_by_user_id":2928674,"hs_deleted_at":0,"hs_id":190983420547,"hs_initial_published_at":1749017847864,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1749017734749,"hs_updated_by_user_id":10165425,"japanese":"正しい電話番号を入力してください。","key":"evaluation/please_enter_valid_phone_number"},{"english":"Please fill in all the required fields.","hs_child_table_id":0,"hs_created_at":1749017687036,"hs_created_by_user_id":2928674,"hs_deleted_at":0,"hs_id":190983420548,"hs_initial_published_at":1749017847864,"hs_is_edited":false,"hs_published_at":1755495966992,"hs_updated_at":1749017699456,"hs_updated_by_user_id":10165425,"key":"evaluation/please_fill_all_required_fields"}]
+        });
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Download Qt, a development tool containing everything you need for your entire software development life cycle. Install Qt today.">
+    <meta property="og:title" content="Download Qt | Get Qt Online Installer">
+    <meta name="twitter:description" content="Download Qt, a development tool containing everything you need for your entire software development life cycle. Install Qt today.">
+    <meta name="twitter:title" content="Download Qt | Get Qt Online Installer">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/template_assets/1/84194741344/1759221424536/template_swiss-main.min.css">
+<link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/template_assets/1/84194816177/1759173197019/template_c-btn.min.css">
+<link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/template_assets/1/85031126345/1754371227436/template_header.min.css">
+<link class="hs-async-css" rel="preload" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/95821412474/1754886967159/module_Site_Notice.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/95821412474/1754886967159/module_Site_Notice.min.css"></noscript>
+<link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/108657269765/1743945615317/module_Download_Suggestions_Eval.min.css">
+
+
+<style>
+    #hs_cos_wrapper_widget_1680092635939 .l-download-os::before {
+  content:'';
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  filter:brightness();
+}
+
+#hs_cos_wrapper_widget_1680092635939 .l-download-os {}
+
+@media (min-width:769px) {
+  #hs_cos_wrapper_widget_1680092635939 .l-download-os {}
+}
+
+@media (min-width:1400px) {
+  #hs_cos_wrapper_widget_1680092635939 .l-download-os {}
+}
+
+</style>
+
+
+<link class="hs-async-css" rel="preload" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/84190938022/1759219672302/module_Columns.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/84190938022/1759219672302/module_Columns.min.css"></noscript>
+
+
+<style>
+    #hs_cos_wrapper_widget_1680008362717 .b-columns::before {
+  content:'';
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  filter:brightness();
+}
+
+#hs_cos_wrapper_widget_1680008362717 .b-columns {}
+
+@media (min-width:769px) {
+  #hs_cos_wrapper_widget_1680008362717 .b-columns {}
+}
+
+@media (min-width:1400px) {
+  #hs_cos_wrapper_widget_1680008362717 .b-columns {}
+}
+
+</style>
+
+
+<link class="hs-async-css" rel="preload" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/101961075061/1758706977169/module_Cards.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/module_assets/1/101961075061/1758706977169/module_Cards.min.css"></noscript>
+
+
+<style>
+    #hs_cos_wrapper_widget_1680010989448 .l-cards::before {
+  content:'';
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  filter:brightness();
+}
+
+#hs_cos_wrapper_widget_1680010989448 .l-cards {}
+
+@media (min-width:769px) {
+  #hs_cos_wrapper_widget_1680010989448 .l-cards {}
+}
+
+@media (min-width:1400px) {
+  #hs_cos_wrapper_widget_1680010989448 .l-cards {}
+}
+
+</style>
+
+
+
+	<style>
+		@media (max-width:961px) {
+  #hs_cos_wrapper_widget_1680010989448 .l-cards__items {
+    display:flex;
+    flex-direction:column;
+  }
+}
+
+#hs_cos_wrapper_widget_1680010989448 .l-cards__items {
+  grid-template-columns:repeat(3,1fr);
+  grid-template-rows:repeat(1,1fr);
+}
+
+	</style>
+
+<link class="hs-async-css" rel="preload" href="https://www.qt.io/hubfs/hub_generated/template_assets/1/86192723069/1749018112008/template_footer.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://www.qt.io/hubfs/hub_generated/template_assets/1/86192723069/1749018112008/template_footer.min.css"></noscript>
+    
+
+    
+    <link rel="canonical" href="https://www.qt.io/download-qt-installer">
+
+<script type="speculationrules">
+{
+  "prefetch": [{
+    "where": {
+      "or": [
+        { "href_matches": ["https://www.qt.io/download", "https://www.qt.io/pricing"] },
+        { "selector_matches": [".c-btn", ".c-header-button"]}
+      ]
+    },
+    "eagerness": "moderate"
+  }]
+}
+</script>
+
+
+
+<!-- OneTrust Cookies Consent Notice start for qt.io -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="018f962b-36e4-7d37-a8a8-54dca71c627e"></script>
+<script type="text/javascript">
+ window.disableHubSpotCookieBanner = true
+ var _hsq = _hsq || [];
+ 
+function OptanonWrapper() {
+  if (OnetrustActiveGroups.includes("C0004")) {
+    window._hsp = window._hsp || [];
+    window._hsp.push([
+      'setHubSpotConsent',
+      {
+        analytics: true,
+        advertisement: true,
+        functionality: true,
+      },
+    ]);
+  } else {
+    _hsq.push(['doNotTrack']);
+    _hsq.push(['doNotTrack', { track: true }]);
+  }
+}
+
+  _hsq.push(['doNotTrack']);
+
+  document.addEventListener('OneTrust.OnConsentChanged', function() {
+    OptanonWrapper();
+  });
+
+</script>
+<!-- OneTrust Cookies Consent Notice end for qt.io -->
+
+
+
+
+<script defer>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', {
+        ad_personalization: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        analytics_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+        security_storage: "granted",
+        wait_for_update: 500
+      });
+      gtag('set', 'ads_data_redaction', true);
+</script>
+
+<!-- Google Tag Manager -->
+<script defer>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+    var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.setAttributeNode(d.createAttribute('data-ot-ignore')); j.async = true; j.src = 
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-T2GWQM');
+    </script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="91RJ0AVTozuP5one5itC5zhjLe3Vsk289Yqx7rGOq6w">
+<meta name="google-site-verification" content="smOLflz9TwJAqAUKON9vV0COQVqEey7ZMEou6lmIldw">
+<meta name="google-site-verification" content="bIhnm2Ko3OmLAEP0Dqp0_aJNyJz9zj6KyJKAb1Lo-es">
+
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,400i,600" rel="preload" as="font">
+<meta property="og:url" content="https://www.qt.io/download-qt-installer">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+<meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  <style>
+#hubspot-messages-iframe-container {
+  visibility: hidden;
+}
+</style>
+
+  <meta name="generator" content="HubSpot"></head>
+  <body class="">
+    <a href="#main-content" class="skip-to-main-content-link">
+
+
+    
+
+
+
+
+    
+    
+        Skip to main content
+    
+
+
+</a>
+    <div class="body-wrapper   hs-content-id-142658618702 hs-site-page page hs-content-path-download-qt-installer hs-content-name-download-thank-you-eval-hs-flow  ">
+
+      
+
+        
+            <div id="hs_cos_wrapper_module_header" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div data-global-resource-path="qtv3/partials/header/header.html">
+
+
+
+<div class="l-header__gap-creator"></div>
+<div class="l-header h-scheme-1">
+    <div class="l-header__container">
+        <div class="l-header__wrapper" data-scheme-target>
+            <div class="l-header__primary">
+                <div class="l-header__logo">
+
+                    
+                        <a href="/?hsLang=en" class="c-logo-header"><svg width="122" viewbox="0 0 633 160" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Qt Group Logo, Link to home page.</title><path d="M85.0242 38.5439C76.0002 38.5439 69.8082 41.5199 66.4482 47.4719C63.0882 53.4239 61.4082 62.9279 61.4082 75.9839C61.4082 89.0399 63.0402 98.3679 66.3042 103.984C69.5682 109.6 75.8082 112.4 85.0242 112.4C94.2402 112.4 100.448 109.648 103.68 104.128C106.896 98.6079 108.496 89.2799 108.496 76.1279C108.496 62.9759 106.832 53.4239 103.536 47.4719C100.224 41.5199 94.0482 38.5439 85.0242 38.5439V38.5439Z" fill="black" /><path d="M25.6 0L0 25.6V160H198.4L224 134.4V0H25.6ZM121.456 139.632L106.624 146.544L93.808 125.52C91.984 126.096 89.056 126.384 85.024 126.384C70.048 126.384 59.616 122.352 53.696 114.288C47.792 106.224 44.848 93.472 44.848 76.048C44.848 58.624 47.84 45.696 53.84 37.232C59.84 28.784 70.224 24.56 85.008 24.56C99.792 24.56 110.16 28.768 116.112 37.168C122.064 45.568 125.04 58.512 125.04 75.984C125.04 87.504 123.808 96.816 121.376 103.92C118.928 111.024 114.912 116.448 109.344 120.192L121.44 139.632H121.456ZM163.424 126.384C155.264 126.384 149.664 124.512 146.64 120.768C143.616 117.024 142.112 109.968 142.112 99.6V66.192H132.896V52.8H142.112V31.92H157.664V52.8H177.536V66.192H157.664V97.872C157.664 103.728 158.096 107.616 158.96 109.536C159.824 111.456 162.032 112.416 165.584 112.416L177.392 111.984L178.112 124.512C171.68 125.76 166.784 126.384 163.424 126.384V126.384Z" fill="black" /><path d="M318.552 87.272V73.16H346.632V123.272C344.04 123.944 338.76 124.664 330.792 125.432C322.92 126.2 317.208 126.584 313.656 126.584C298.68 126.584 288.36 122.456 282.696 114.2C277.032 105.944 274.2 93.032 274.2 75.464C274.2 57.8 277.08 44.936 282.84 36.872C288.696 28.808 298.776 24.776 313.08 24.776C321.528 24.776 331.032 25.736 341.592 27.656L346.632 28.664L346.056 41.336C334.44 39.8 324.024 39.032 314.808 39.032C305.592 39.032 299.256 41.624 295.8 46.808C292.44 51.992 290.76 61.592 290.76 75.608C290.76 89.624 292.344 99.32 295.512 104.696C298.776 109.976 305.304 112.616 315.096 112.616C322.104 112.616 327.336 112.184 330.792 111.32V87.272H318.552Z" fill="black" /><path d="M364.816 125V53H380.368V61.64C388.528 56.36 396.688 52.952 404.848 51.416V67.112C396.592 68.744 389.536 70.856 383.68 73.448L380.512 74.744V125H364.816Z" fill="black" /><path d="M420.173 60.776C425.165 54.536 433.421 51.416 444.941 51.416C456.461 51.416 464.669 54.536 469.565 60.776C474.557 67.016 477.053 76.376 477.053 88.856C477.053 101.336 474.653 110.744 469.853 117.08C465.053 123.416 456.749 126.584 444.941 126.584C433.133 126.584 424.829 123.416 420.029 117.08C415.229 110.744 412.829 101.336 412.829 88.856C412.829 76.376 415.277 67.016 420.173 60.776ZM431.981 107.576C434.189 111.416 438.509 113.336 444.941 113.336C451.373 113.336 455.693 111.416 457.901 107.576C460.109 103.736 461.213 97.448 461.213 88.712C461.213 79.976 460.013 73.784 457.613 70.136C455.309 66.488 451.085 64.664 444.941 64.664C438.797 64.664 434.525 66.488 432.125 70.136C429.821 73.784 428.669 79.976 428.669 88.712C428.669 97.448 429.773 103.736 431.981 107.576Z" fill="black" /><path d="M536.277 53H551.829V125H536.277V120.536C529.269 124.568 522.789 126.584 516.837 126.584C506.949 126.584 500.325 123.944 496.965 118.664C493.605 113.288 491.925 103.928 491.925 90.584V53H507.621V90.728C507.621 99.368 508.341 105.176 509.781 108.152C511.221 111.128 514.581 112.616 519.861 112.616C525.045 112.616 529.797 111.656 534.117 109.736L536.277 108.872V53Z" fill="black" /><path d="M570.832 155.96V53H586.384V57.464C593.008 53.432 599.2 51.416 604.96 51.416C614.464 51.416 621.424 54.344 625.84 60.2C630.256 65.96 632.464 75.704 632.464 89.432C632.464 103.064 629.92 112.664 624.832 118.232C619.84 123.8 611.632 126.584 600.208 126.584C596.272 126.584 591.712 126.152 586.528 125.288V155.96H570.832ZM602.224 65.384C597.712 65.384 593.2 66.392 588.688 68.408L586.528 69.416V111.896C590.368 112.664 594.592 113.048 599.2 113.048C605.728 113.048 610.24 111.176 612.736 107.432C615.232 103.688 616.48 97.304 616.48 88.28C616.48 73.016 611.728 65.384 602.224 65.384Z" fill="black" /></svg></a>
+                    
+
+                </div>
+
+                <div class="l-header__mobile-toggle">
+                    <button class="c-hamburger js-l-header__mobile-toggle" aria-label="menu"></button>
+                </div>
+
+                <div class="l-header__navigation">
+                    <nav class="c-header-navigation" aria-label="Main Navigation">
+
+                        <ul class="c-menu" role="menu">
+
+                            <li class="c-menu__back" tabindex="0">Back</li>
+                        
+                            
+                        
+                            <li class="c-menu__item  has-children " role="menuitem" tabindex="0" onclick="this.blur();"><a class="active">Products</a>
+
+                                
+                        
+                                <div class="c-menu__wrapper" tabindex="-1">
+                        
+                                    <div class="c-menu__column-wrapper" tabindex="-1">
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+
+                                            <a class="c-menu-item c-menu-item--text" href="https://www.qt.io/product?hsLang=en" tabindex="0" role="menuitem">
+                                                <h6 data-color="development">Development Framework &amp; Tools</h6>
+                                            </a>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/framework?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/Frame%206762.svg" alt="Frame 6762" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Framework</h6>
+                        
+                                                    
+                                                    <p>Cross-platform software libraries and APIs</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/development-tools?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/Frame%206762.svg" alt="Frame 6762" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Development Tools</h6>
+                        
+                                                    
+                                                    <p>Qt Creator IDE and productivity tools</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/ui-design-tools?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/Frame%206762.svg" alt="Frame 6762" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Design Studio</h6>
+                        
+                                                    
+                                                    <p>UI Design tool for UI composition</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/gui-design-figma?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/Frame%206762.svg" alt="Frame 6762" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Figma to Qt</h6>
+                        
+                                                    
+                                                    <p>Bring Figma designs to the product</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/qt-accelerate?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/Frame%206762.svg" alt="Frame 6762" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Accelerate</h6>
+                        
+                                                    
+                                                    <p>Qt Templates for industrial applications</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+
+                                            <a class="c-menu-item c-menu-item--text" href="https://www.qt.io/product/quality-assurance?hsLang=en" tabindex="0" role="menuitem">
+                                                <h6 data-color="qa">Quality Assurance Tools</h6>
+                                            </a>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/quality-assurance/squish?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/qa-logo-squish.svg" alt="qa-logo-squish" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Squish</h6>
+                        
+                                                    
+                                                    <p>GUI test automation</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/quality-assurance/coco?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/QA_ProductIcon_Coco.svg" alt="QA_ProductIcon_Coco" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Coco</h6>
+                        
+                                                    
+                                                    <p>Code coverage analysis</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/quality-assurance/test-center?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/qa-logo-test-center.svg" alt="qa-logo-test-center" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Test Center</h6>
+                        
+                                                    
+                                                    <p>Test results management and analysis</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/quality-assurance/axivion-static-code-analysis?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/axivion-static-code.svg" alt="axivion-static-code" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Axivion Static Code Analysis</h6>
+                        
+                                                    
+                                                    <p>Software static code analysis</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/quality-assurance/axivion-architecture-verification?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                                                    <img src="https://www.qt.io/hubfs/axivion-architecture.svg" alt="axivion-architecture" aria-hidden="true">
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Axivion Architecture Verification</h6>
+                        
+                                                    
+                                                    <p>Software architecture verification</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column  c-menu__column--bg " style="background-color: rgba(245, 245, 245, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="default">More</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/qt6?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt 6</h6>
+                        
+                                                    
+                                                    <p>The latest version of Qt.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/qt-licensing?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Licensing</h6>
+                        
+                                                    
+                                                    <p>Make the most of Qt tools, with options for commercial licensing, subscriptions, or open-source.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/features?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Features</h6>
+                        
+                                                    
+                                                    <p>Explore Qt features, the Framework essentials, modules, tools &amp; add-ons.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/product/ai-assistant?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt AI Assistant</h6>
+                        
+                                                    
+                                                    <p>Discover how Qt AI Assistant lets developers focus on what they love: programming.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                    </div>
+
+                                </div>
+
+                                
+                        
+                            </li>
+                        
+                            
+                        
+                            <li class="c-menu__item  has-children " role="menuitem" tabindex="0" onclick="this.blur();"><a class="active">Solutions</a>
+
+                                
+                        
+                                <div class="c-menu__wrapper" tabindex="-1">
+                        
+                                    <div class="c-menu__column-wrapper" tabindex="-1">
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--rich-text h-wysiwyg-html">
+                                                <h3 style="color: black; font-size: 32px; margin-bottom: 16px;">Industry &amp; Platform Solutions</h3>
+<p style="color: black;">Qt empowers productivity across the entire product development lifecycle, from UI design and software development to quality assurance and deployment. Find the solution that best suits your needs.</p>
+                                            </li>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="default">Industry</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-automotive?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Automotive</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-aerospace-and-defense?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Aerospace &amp; Defense</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-industrial-vehicles?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Industrial Vehicles</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-micro-mobility?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Micro-Mobility Interfaces</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-consumer-electronics?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Consumer Electronics</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-automation?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Industrial Automation</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/industry/qt-in-medical?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Medical</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="default">Platform</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/platform/application-development?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Desktop, Mobile &amp; Web</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/platform/develop-embedded-devices?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Embedded Devices</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/platform/develop-software-microcontrollers-mcu?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>MCU (Microcontrollers)</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/platform/qt-for-cloud?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Cloud Solutions</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column  c-menu__column--bg " style="background-color: rgba(245, 245, 245, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="default">More</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/cyber-resilience-act?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Cyber Resilience Act (CRA)</h6>
+                        
+                                                    
+                                                    <p>Explore what it means, how it impacts your products, and what steps you need to take to stay compliant.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/resources/next-gen-ux?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Next-Gen UX</h6>
+                        
+                                                    
+                                                    <p>Insight into the evolution and importance of user-centric trends and strategies.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/resources/scalability?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Limitless Scalability</h6>
+                        
+                                                    
+                                                    <p>Learn how to shorten development times, improve user experience, and deploy anywhere.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/boost-productivity-with-platform-engineering?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Platform Engineering</h6>
+                        
+                                                    
+                                                    <p>Guidance on platform engineering and building better software faster.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                    </div>
+
+                                </div>
+
+                                
+                        
+                            </li>
+                        
+                            
+                        
+                            <li class="c-menu__item  has-children " role="menuitem" tabindex="0" onclick="this.blur();"><a class="active">Resources</a>
+
+                                
+                        
+                                <div class="c-menu__wrapper" tabindex="-1">
+                        
+                                    <div class="c-menu__column-wrapper" tabindex="-1">
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--rich-text h-wysiwyg-html">
+                                                <h3 style="color: black; font-size: 32px; margin-bottom: 16px;">Our Ultimate Collection of Resources</h3>
+<p style="color: black;">Get the latest resources, check out upcoming events, and see who’s innovating with Qt.</p>
+                                            </li>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="development">Development Framework &amp; Tools</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/resources/qt?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Resources</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/blog?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Blog</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/qt-success-stories?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Success Stories</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/qt-demos?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Demos</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://doc.qt.io/" target="_blank" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Documentation </h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="qa">Quality Assurance Tools</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/quality-assurance/resources?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>QA Resources</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/quality-assurance/blog?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>QA Blog</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/product/quality-assurance/success-stories?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>QA Success Stories</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://doc.qt.io/tools.html#qa" target="_blank" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>QA Documentation</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column  c-menu__column--bg " style="background-color: rgba(245, 245, 245, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="default">More</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://www.qt.io/live-webinars-and-events?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Live Events &amp; Webinars</h6>
+                        
+                                                    
+                                                    <p>Stay informed about our live events and webinars, whether they're online, in person, or face-to-face.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  c-menu-item--link--subheading  " href="https://forum.qt.io/" target="_blank" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Forum</h6>
+                        
+                                                    
+                                                    <p>Engage with the community, share insights, and get answers to all your questions about Qt tools and development.</p>
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                    </div>
+
+                                </div>
+
+                                
+                        
+                            </li>
+                        
+                            
+                        
+                            <li class="c-menu__item  has-children " role="menuitem" tabindex="0" onclick="this.blur();"><a class="active">Support</a>
+
+                                
+                        
+                                <div class="c-menu__wrapper" tabindex="-1">
+                        
+                                    <div class="c-menu__column-wrapper" tabindex="-1">
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--rich-text h-wysiwyg-html">
+                                                <h3 style="color: black; font-size: 32px; margin-bottom: 16px;">We're Here for You—Support and Services</h3>
+<p style="color: black;">Whether you're a beginner or a seasoned Qt pro, we have all the help and support you need to succeed.</p>
+                                            </li>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                        <ul tabindex="-1" class="c-menu__column " style="background-color: rgba(#null, 1.0);">
+                                                                    
+                                            
+                        
+                                            
+
+                                            
+                        
+                                            <li class="c-menu-item c-menu-item--text">
+                                                <h6 data-color="default">Helpful Links</h6>
+                                            </li>
+
+                                            
+
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/contact-us?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Contact Us</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://login.qt.io" target="_blank" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Customer Portal</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/qt-support/?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Support</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/customer-success?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Customer Success</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/qt-professional-services?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Professional Services</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/contact-us/partners?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt Partners</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                            
+                        
+                                            <a class="c-menu-item c-menu-item--link  " href="https://www.qt.io/qt-user-research?hsLang=en" tabindex="0" role="menuitem">
+                        
+                                                
+                        
+                                                <div class="c-menu-item__text">
+                                                    <h6>Qt User Research</h6>
+                        
+                                                    
+                                                </div>
+                        
+                                            </a>
+                        
+                                            
+
+                                            
+                        
+                                            
+                        
+                                        </ul>
+                        
+                                        
+                        
+                                    </div>
+
+                                </div>
+
+                                
+                        
+                            </li>
+                        
+                            
+                        
+                        </ul>
+
+                        <!-- Link to Developers (mobile only)-->
+                    <li class="developers-link--mobile-only">
+                        <a href="/developers?hsLang=en" class="">
+
+
+    
+
+
+
+
+    
+    
+        Developers
+    
+
+
+</a>
+                    </li>
+
+                    <!-- Link to Learning Hub (mobile only)-->
+                    <li class="developers-link--mobile-only">
+                        <a href="/qt-learning-hub?hsLang=en" class="">
+
+
+    
+
+
+
+
+    
+    
+        Learning Hub
+    
+
+
+</a>
+                    </li>
+                    
+                    </nav>
+                </div>
+            </div>
+            <nav class="l-header__secondary" aria-label="Secondary Navigation">
+
+                <!-- Search -->
+                <div class="c-search-btn" tabindex="0" aria-label="Open Search">
+                    <form id="site-search" role="search" autocomplete="off"> 
+                        <input data-navigation="%5B%7B%22title%22%3A%22Qt.io%22%2C%22value%22%3A%22https%3A%2F%2Fwww.qt.io%22%7D%2C%7B%22title%22%3A%22Documentation%22%2C%22value%22%3A%22doc.qt.io%22%7D%2C%7B%22title%22%3A%22Investors%22%2C%22value%22%3A%22https%3A%2F%2Fwww.qt.io%2Finvestors%22%7D%2C%7B%22title%22%3A%22Wiki%22%2C%22value%22%3A%22wiki.qt.io%22%7D%2C%7B%22title%22%3A%22Forum%22%2C%22value%22%3A%22forum.qt.io%22%7D%5D" class="qt-search-component" placeholder="Search" id="search" name="search" onclick="(function(w,d,i){i.removeAttribute('on'+w.event.type);var j=d.createElement('script'),c=d.createElement('link');j.async=true;j.onload=function(){qtSearchInit(i,w.qtSearchNavigation)};j.src='https://www.qt.io/hubfs/qt-design-system/qt-search-component-v2/qt-search-component-v2.js';c.rel='stylesheet';c.onload=function(){try{w.qtscs=1;qtSearchStyle(i)}catch(e){}};c.href='https://www.qt.io/hubfs/qt-design-system/qt-search-component-v2/qt-search-component-v2.css';d.head.appendChild(c);d.head.appendChild(j)})(window,document,this)" required type="text" aria-label="
+
+
+    
+
+
+
+
+    
+    
+        Search
+    
+
+
+" tabindex="-1"> 
+                    </form>
+                    <button class="c-search-btn__close" type="button" aria-label="Close Search"></button>
+                </div>
+
+                <a class="c-account-btn" href="https://account.qt.io/" title="Qt Account link"></a>
+
+                <!-- Language switcher -->
+                
+
+                <!-- Link to Learning Hub -->
+                <a href="/qt-learning-hub?hsLang=en" class="learning-hub-link developers-link">
+
+
+    
+
+
+
+
+    
+    
+        Learning Hub
+    
+
+
+</a>
+
+                <!-- Link to Developers -->
+                <a href="/developers?hsLang=en" class="developers-link">
+
+
+    
+
+
+
+
+    
+    
+        Developers
+    
+
+
+</a>
+
+                <!-- Pricing and download buttons -->
+                 <div class="c-button-group">
+                    <a href="/pricing/?hsLang=en" class="c-header-button active c-header-btn--outline">
+
+
+    
+
+
+
+
+    
+    
+        Price. Buy.
+    
+
+
+</a>
+
+                    
+                        <a href="/download-dev?hsLang=en" class="c-header-button active c-header-btn">
+
+
+    
+
+
+
+
+    
+    
+        Download. Try.
+    
+
+
+</a>
+                    
+                </div>
+            </nav>
+        </div>
+    </div>
+</div></div></div>    
+        
+
+        <div id="hs_cos_wrapper_site_notice" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"></div>
+      
+
+      <main class="body-container" id="main-content">
+        
+  <span id="hs_cos_wrapper_my_flexible_column" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_1680092635939" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+<section class="l-download-eval h-scheme-1 h-scheme-brand-3">
+    <div class="l-download-eval__container" data-scheme-target>
+        <div class="h-wysiwyg-html">
+            <h1 class="h2"><strong>Thank You For Downloading Qt Installer</strong></h1>
+            <p>If the download does not start automatically, click 
+            
+                <a id="download-macos" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-macOS-x64-4.10.0.dmg">macOS</a>
+            
+                <a id="download-windows-x64" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-windows-x64-4.10.0.exe">Windows x64</a>
+            
+                <a id="download-linux-x64" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-linux-x64-4.10.0.run">Linux x64</a>
+            
+                <a id="download-linux-arm64" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-linux-arm64-4.10.0.run">Linux ARM64</a>
+            
+                <a id="download-windows-arm64" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-windows-arm64-4.10.0.exe">Windows ARM64</a>
+            
+            or select another installer: for 
+            
+                <a id="alt-download-macos" class="alt-download-links" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-macOS-x64-4.10.0.dmg">macOS</a>
+            
+                <a id="alt-download-windows-x64" class="alt-download-links" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-windows-x64-4.10.0.exe">Windows x64</a>
+            
+                <a id="alt-download-linux-x64" class="alt-download-links" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-linux-x64-4.10.0.run">Linux x64</a>
+            
+                <a id="alt-download-linux-arm64" class="alt-download-links" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-linux-arm64-4.10.0.run">Linux ARM64</a>
+            
+                <a id="alt-download-windows-arm64" class="alt-download-links" href="https://d13lb3tujbc8s0.cloudfront.net/onlineinstallers/qt-online-installer-windows-arm64-4.10.0.exe">Windows ARM64</a>
+            
+            </p>
+        </div> 
+    </div>
+</section></div>
+<div id="hs_cos_wrapper_widget_1680008362717" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+    
+
+
+
+
+
+
+
+
+<section class="b-columns b-columns--horizontal-top b-columns--default b-columns--left  no-padding  b-columns-- b-columns--tabs--false h-scheme-1 h-scheme-brand-3 " id="">
+    <div class="b-columns__container ">
+        <div class="b-columns__columns" data-column-amount="1" style="--column1: ; --column2: ; --column3: ">
+            
+            <div class="b-columns__column " data-scheme-target>
+                
+                <div class="h-wysiwyg-html h-wysiwyg-html--spacing">
+                    <h3>Start Your Journey With Qt in a Few Simple Steps:</h3>
+<ol class="number-with-background">
+<li>
+<div class="number-with-background__item">
+<h4>Sign in to Installer Using Your Qt account Credentials</h4>
+<p>Please, be sure you use right credentials upon starting the installer. This will enable access to all your additional commercial Qt components</p>
+</div>
+</li>
+<li>
+<div class="number-with-background__item">
+<h4>Get the Most Out of Your Trial with Qt Resources</h4>
+</div>
+</li>
+</ol>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+</div>
+<div id="hs_cos_wrapper_widget_1680010989448" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+<section class="l-cards l-cards-- l-cards--style--default l-cards-- l-cards--padding-bottom" id="">
+    <div class="l-cards__container">
+        <div class="l-cards__items l-cards__items--">
+            
+            <div class="l-cards__item lazy-image l-cards__item-- l-cards__item--space-between   h-scheme-brand-3 h-scheme-2  " data-link="https://www.qt.io/academy/course-catalog" target="_blank" style="background-image: url(https://www.qt.io/hubfs/bg_qt_learning.png); background-size: cover; background-repeat: no-repeat;">
+                
+                <div class="l-cards__item__icon  l-cards__item__icon--book-open 
+                     l-cards__item__icon--light ">
+                </div>
+                
+
+                
+
+                <div class="h-wysiwyg-html h-wysiwyg-html--spacing" data-scheme-target>
+                    <h3>Learn Qt</h3>
+
+                    
+                    <div class="c-button-group ">
+                        
+                        <a class="c-btn c-btn--icon" href="https://www.qt.io/academy/course-catalog?hsLang=en">Read More</a>
+                        
+                    </div>
+                    
+
+                </div>
+            </div>
+            
+            <div class="l-cards__item lazy-image l-cards__item-- l-cards__item--space-between   h-scheme-1 h-scheme-brand-3   l-modal-button " data-scheme-target data-link="https://forum.qt.io/" target="_blank" style="background-color: #8FE8B4">
+                
+                <div class="l-cards__item__icon  l-cards__item__icon--speech-bubble 
+                     l-cards__item__icon--dark ">
+                </div>
+                
+
+                
+
+                <div class="h-wysiwyg-html h-wysiwyg-html--spacing" data-scheme-target>
+                    <h3>Forum</h3>
+
+                    
+                    <div class="c-button-group ">
+                        
+                        <a class="c-btn c-btn--icon" href="https://forum.qt.io/">Read More</a>
+                        
+                    </div>
+                    
+
+                </div>
+            </div>
+            
+            <div class="l-cards__item lazy-image l-cards__item-- l-cards__item--space-between   h-scheme-1 h-scheme-brand-3   l-modal-button " data-scheme-target data-link="https://doc.qt.io/" target="_blank" style="background-color: #f5f5f5">
+                
+                <div class="l-cards__item__icon  l-cards__item__icon--question 
+                     l-cards__item__icon--dark ">
+                </div>
+                
+
+                
+
+                <div class="h-wysiwyg-html h-wysiwyg-html--spacing" data-scheme-target>
+                    <h3>Documentation</h3>
+
+                    
+                    <div class="c-button-group ">
+                        
+                        <a class="c-btn c-btn--icon" href="https://doc.qt.io/">Read More</a>
+                        
+                    </div>
+                    
+
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section></div></span>
+
+      </main>
+
+      
+        
+            <div id="hs_cos_wrapper_module_footer" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div data-global-resource-path="qtv3/partials/footer/footer.html">
+
+
+<footer class="l-footer">
+    <div class="l-footer__container">
+        <div class="l-footer__row l-footer__row--no-padding-bottom">
+            <div class="l-footer__column l-footer__company">
+                <div class="l-footer__logo">
+                    <a href="/?hsLang=en" class="c-logo-footer">
+                        <svg width="122" viewbox="0 0 633 160" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Qt Group Logo, Link to home page.</title><path d="M85.0242 38.5439C76.0002 38.5439 69.8082 41.5199 66.4482 47.4719C63.0882 53.4239 61.4082 62.9279 61.4082 75.9839C61.4082 89.0399 63.0402 98.3679 66.3042 103.984C69.5682 109.6 75.8082 112.4 85.0242 112.4C94.2402 112.4 100.448 109.648 103.68 104.128C106.896 98.6079 108.496 89.2799 108.496 76.1279C108.496 62.9759 106.832 53.4239 103.536 47.4719C100.224 41.5199 94.0482 38.5439 85.0242 38.5439V38.5439Z" /><path d="M25.6 0L0 25.6V160H198.4L224 134.4V0H25.6ZM121.456 139.632L106.624 146.544L93.808 125.52C91.984 126.096 89.056 126.384 85.024 126.384C70.048 126.384 59.616 122.352 53.696 114.288C47.792 106.224 44.848 93.472 44.848 76.048C44.848 58.624 47.84 45.696 53.84 37.232C59.84 28.784 70.224 24.56 85.008 24.56C99.792 24.56 110.16 28.768 116.112 37.168C122.064 45.568 125.04 58.512 125.04 75.984C125.04 87.504 123.808 96.816 121.376 103.92C118.928 111.024 114.912 116.448 109.344 120.192L121.44 139.632H121.456ZM163.424 126.384C155.264 126.384 149.664 124.512 146.64 120.768C143.616 117.024 142.112 109.968 142.112 99.6V66.192H132.896V52.8H142.112V31.92H157.664V52.8H177.536V66.192H157.664V97.872C157.664 103.728 158.096 107.616 158.96 109.536C159.824 111.456 162.032 112.416 165.584 112.416L177.392 111.984L178.112 124.512C171.68 125.76 166.784 126.384 163.424 126.384V126.384Z" /><path d="M318.552 87.272V73.16H346.632V123.272C344.04 123.944 338.76 124.664 330.792 125.432C322.92 126.2 317.208 126.584 313.656 126.584C298.68 126.584 288.36 122.456 282.696 114.2C277.032 105.944 274.2 93.032 274.2 75.464C274.2 57.8 277.08 44.936 282.84 36.872C288.696 28.808 298.776 24.776 313.08 24.776C321.528 24.776 331.032 25.736 341.592 27.656L346.632 28.664L346.056 41.336C334.44 39.8 324.024 39.032 314.808 39.032C305.592 39.032 299.256 41.624 295.8 46.808C292.44 51.992 290.76 61.592 290.76 75.608C290.76 89.624 292.344 99.32 295.512 104.696C298.776 109.976 305.304 112.616 315.096 112.616C322.104 112.616 327.336 112.184 330.792 111.32V87.272H318.552Z" /><path d="M364.816 125V53H380.368V61.64C388.528 56.36 396.688 52.952 404.848 51.416V67.112C396.592 68.744 389.536 70.856 383.68 73.448L380.512 74.744V125H364.816Z" /><path d="M420.173 60.776C425.165 54.536 433.421 51.416 444.941 51.416C456.461 51.416 464.669 54.536 469.565 60.776C474.557 67.016 477.053 76.376 477.053 88.856C477.053 101.336 474.653 110.744 469.853 117.08C465.053 123.416 456.749 126.584 444.941 126.584C433.133 126.584 424.829 123.416 420.029 117.08C415.229 110.744 412.829 101.336 412.829 88.856C412.829 76.376 415.277 67.016 420.173 60.776ZM431.981 107.576C434.189 111.416 438.509 113.336 444.941 113.336C451.373 113.336 455.693 111.416 457.901 107.576C460.109 103.736 461.213 97.448 461.213 88.712C461.213 79.976 460.013 73.784 457.613 70.136C455.309 66.488 451.085 64.664 444.941 64.664C438.797 64.664 434.525 66.488 432.125 70.136C429.821 73.784 428.669 79.976 428.669 88.712C428.669 97.448 429.773 103.736 431.981 107.576Z" /><path d="M536.277 53H551.829V125H536.277V120.536C529.269 124.568 522.789 126.584 516.837 126.584C506.949 126.584 500.325 123.944 496.965 118.664C493.605 113.288 491.925 103.928 491.925 90.584V53H507.621V90.728C507.621 99.368 508.341 105.176 509.781 108.152C511.221 111.128 514.581 112.616 519.861 112.616C525.045 112.616 529.797 111.656 534.117 109.736L536.277 108.872V53Z" /><path d="M570.832 155.96V53H586.384V57.464C593.008 53.432 599.2 51.416 604.96 51.416C614.464 51.416 621.424 54.344 625.84 60.2C630.256 65.96 632.464 75.704 632.464 89.432C632.464 103.064 629.92 112.664 624.832 118.232C619.84 123.8 611.632 126.584 600.208 126.584C596.272 126.584 591.712 126.152 586.528 125.288V155.96H570.832ZM602.224 65.384C597.712 65.384 593.2 66.392 588.688 68.408L586.528 69.416V111.896C590.368 112.664 594.592 113.048 599.2 113.048C605.728 113.048 610.24 111.176 612.736 107.432C615.232 103.688 616.48 97.304 616.48 88.28C616.48 73.016 611.728 65.384 602.224 65.384Z" /></svg>
+                    </a>
+                </div>
+
+                <div class="c-social-media-links">
+                    
+                        <a href="https://twitter.com/qtproject" target="_blank" rel="noopener" class="fm_button fm_twitter" title="Link to Qt X page"><span></span></a>
+                    
+
+                    <a href="https://www.facebook.com/qt/" target="_blank" rel="noopener" class="fm_button fm_facebook" title="Link to Qt Facebook page"><span></span></a>
+                    <a href="https://www.youtube.com/user/QtStudios" target="_blank" rel="noopener" class="fm_button fm_youtube" title="Link to Qt YouTube page"><span></span></a>
+                    <a href="https://www.linkedin.com/company/qtgroup/" target="_blank" rel="noopener" class="fm_button fm_linkedin" title="Link to Qt LinkedIn page"><span></span></a>
+                    
+                </div>
+
+                <img class="l-footer__g2" data-link="https://www.g2.com/products/qt/reviews" target="_blank" src="https://www.qt.io/hubfs/raw_assets/public/qtv3/assets/images/g2-milestone.png" alt="G2 Milestone Logo">
+
+                <div class="l-footer__contact">
+                    
+                        <a class="c-btn " href="https://www.qt.io/contact-us?hsLang=en">Contact Us</a>
+                    
+                </div>
+
+            </div>
+            <div class="l-footer__column l-footer__navigation">
+                <nav class="c-footer-navigation" aria-label="Footer Navigation">
+                    
+                        <span id="hs_cos_wrapper_module_footer_footer_menu" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_footer_footer_menu" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="QtV3 Footer" data-menu-id="83673483157" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Qt Group</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/group" role="menuitem">Our Story</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/brand" role="menuitem">Brand</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/newsroom" role="menuitem">News</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/careers" role="menuitem">Careers</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/investors" role="menuitem">Investors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/product" role="menuitem">Qt Products</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/quality-assurance" role="menuitem">Quality Assurance Products</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Licensing</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/terms-conditions-2024-02" role="menuitem">License Agreement</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/licensing/open-source-lgpl-obligations" role="menuitem">Open Source</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/pricing" role="menuitem">Plans and pricing</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/download-dev" role="menuitem">Download</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/faq" role="menuitem">FAQ</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Learn Qt</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/academy" role="menuitem">For Learners</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/qt-educational-license" role="menuitem">For Students and Teachers</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://doc.qt.io/" role="menuitem" target="_blank" rel="noopener">Qt Documentation</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://forum.qt.io/" role="menuitem" target="_blank" rel="noopener">Qt Forum</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Support &amp; Services</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/qt-professional-services" role="menuitem">Professional Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/customer-success" role="menuitem">Customer Success</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/qt-support/" role="menuitem">Support Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/contact-us/partners" role="menuitem">Partners</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.qt.io/qt-world" role="menuitem" target="_blank" rel="noopener">Qt World</a></li>
+   </ul></li>
+ </ul>
+</div></span>
+                    
+                </nav>
+
+                <div class="c-footer-subscribe">
+                    
+                        <script charset="utf-8" type="text/javascript" data-src="//js-eu1.hsforms.net/forms/embed/v2.js" data-portal="149513" data-id="e93f1383-a08a-4017-ba8f-7bad0d8b18c2" data-region="eu1" data-form></script>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="l-footer__row">
+            <div class="l-footer__column l-footer__legal">
+                <div class="c-footer-secondary-navigation">
+                    <span id="hs_cos_wrapper_module_footer_footer_secondary_menu" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_footer_footer_secondary_menu" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="QtV3 Footer Secondary" data-menu-id="86192689944" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:;" role="menuitem">© 2025 The Qt Company</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.qt.io/terms-conditions/legal-notice" role="menuitem" target="_blank" rel="noopener">Legal Notice</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.qt.io/terms-conditions/privacy-policy" role="menuitem" target="_blank" rel="noopener">Privacy and Cookie Policy</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.qt.io/terms-conditions-2024-02" role="menuitem" target="_blank" rel="noopener">Terms &amp; Conditions</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.qt.io/terms-conditions/responsible-vulnerability-disclosure-process" role="menuitem">Trust Center</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:;" role="menuitem"><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button></a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.qt.io/email-preferences" role="menuitem">Email Preferences</a></li>
+ </ul>
+</div></span>
+                    <p class="c-footer-secondary-navigation__group-notice">Qt Group includes The Qt Company Oy and its global subsidiaries and affiliates.</p>
+                </div>
+            </div>
+            <div class="l-footer__column l-footer__some-links">
+            </div>
+        </div>
+    </div>
+</footer></div></div>  
+        
+      
+
+    </div>
+    <modals></modals>
+    
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+<script defer src="https://www.qt.io/hubfs/hub_generated/template_assets/1/84194138523/1759213970728/template_swiss-main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script defer src="https://www.qt.io/hubfs/hub_generated/template_assets/1/85031126346/1754886974690/template_header.min.js"></script>
+<script defer src="https://www.qt.io/hubfs/hub_generated/module_assets/1/95821412474/1754886967159/module_Site_Notice.min.js"></script>
+<script src="https://www.qt.io/hubfs/hub_generated/module_assets/1/108657269765/1743945615317/module_Download_Suggestions_Eval.min.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.qt.io\/download-qt-installer"]);
+_hsq.push(["setPageId", "142658618702"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 142658618702,
+    "legacyPageId": "142658618702",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 142658618702,
+    "languageCode": "en",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/149513.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "6647bff2-017b-42ea-9d27-9bd4a70ae877",
+    ticks: 1759308533297,
+    page_id: 142658618702,
+    
+    content_group_id: 0,
+    portal_id: 149513,
+    app_hs_base_url: "https://app-eu1.hubspot.com",
+    cp_hs_base_url: "https://cp-eu1.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    
+    analytics_page_id: "142658618702",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.432/js/index.js"></script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2GWQM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+
+  
+</body></html>

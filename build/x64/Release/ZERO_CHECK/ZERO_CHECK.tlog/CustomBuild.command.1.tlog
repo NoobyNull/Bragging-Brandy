@@ -1,0 +1,10 @@
+^C:\CODE\BRAGGING-BRANDY\BUILD\CMAKEFILES\5675FE99352D8FD6CC9D42DBAB7F0FFC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Code/Bragging-Brandy -BC:/Code/Bragging-Brandy/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Code/Bragging-Brandy/build/3DModelManagementUtility.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
